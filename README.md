@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+
 <!--
 **abhigenva/abhigenva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![image](https://user-images.githubusercontent.com/19860386/198695821-84153ba7-eba0-4cb3-a62e-8e2fd1cf36ae.png)
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![github](https://user-images.githubusercontent.com/19860386/200165325-d53c7144-14fa-47a2-9cc5-e7e3a531bab3.svg)
