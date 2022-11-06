@@ -1,5 +1,5 @@
 
-### Hi there ![Hi](https://user-images.githubusercontent.com/19860386/200165547-726fe25f-8658-495c-aa5c-13eb7ae75334.gif)
+### Hello there! 
 
 
 
